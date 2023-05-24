@@ -1,0 +1,388 @@
+Uri: https://agencix-template.webflow.io/
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/about
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/contact
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/legal
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\legal.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/news
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\news.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post-categories/code
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post-categories\code.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post-categories/design
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post-categories\design.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post-categories/marketing
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post-categories\marketing.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post/communication-between-studio-departments
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post\communication-between-studio-departments.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post/curating-a-workplace-that-inspires-all-of-us
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post\curating-a-workplace-that-inspires-all-of-us.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post/designers-who-changed-the-web-with-webflow
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post\designers-who-changed-the-web-with-webflow.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post/innovative-design-techniques-for-the-creative
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post\innovative-design-techniques-for-the-creative.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/post/rss.xml
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\post\rss.xml
+Content Type: application/rss+xml
+
+Uri: https://agencix-template.webflow.io/project/cartoon-icon
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\project\cartoon-icon.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/project/company-mockup
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\project\company-mockup.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/project/digital-font
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\project\digital-font.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/project/pyramid-illustration
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\project\pyramid-illustration.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/project/rss.xml
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\project\rss.xml
+Content Type: application/rss+xml
+
+Uri: https://agencix-template.webflow.io/template-info/changelog
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\template-info\changelog.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/template-info/licensing
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\template-info\licensing.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/template-info/style-guide
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\template-info\style-guide.html
+Content Type: text/html
+
+Uri: https://agencix-template.webflow.io/work
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\work.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/627298b34d84a873409730b9/62948d50e865837e90b9d096_file (1).svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\627298b34d84a873409730b9\62948d50e865837e90b9d096_file (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/627298b34d84a873409730b9/62948da133518fd4d14fc0da_file (13).svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\627298b34d84a873409730b9\62948da133518fd4d14fc0da_file (13).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/627298b34d84a873409730b9/62948e04394a4ca8365abbd3_file (15).svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\627298b34d84a873409730b9\62948e04394a4ca8365abbd3_file (15).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfb6ed34fc214_slack.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\62f12c77027bfb4b634fc1b9\62f12c77027bfb6ed34fc214_slack.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbbf034fc1f7_instagram.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\62f12c77027bfb4b634fc1b9\62f12c77027bfbbf034fc1f7_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/62f12c77027bfb4b634fc1b9/62f12c77027bfbef454fc1ef_twitter.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\62f12c77027bfb4b634fc1b9\62f12c77027bfbef454fc1ef_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6401e66f28960a2d78e3fa7d_close_white_24dp.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6401e66f28960a2d78e3fa7d_close_white_24dp.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6402054ca588fb0f9782f8b3_blog-3.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6402054ca588fb0f9782f8b3_blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405c68fc56a04134040f827_logo.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405c68fc56a04134040f827_logo.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405cf1c1b08ad2360a9da63_scribble-circle-2-p-1080.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405cf1c1b08ad2360a9da63_scribble-circle-2-p-1080.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405cf1c1b08ad2360a9da63_scribble-circle-2-p-500.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405cf1c1b08ad2360a9da63_scribble-circle-2-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405cf1c1b08ad2360a9da63_scribble-circle-2-p-800.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405cf1c1b08ad2360a9da63_scribble-circle-2-p-800.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405cf1c1b08ad2360a9da63_scribble-circle-2.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405cf1c1b08ad2360a9da63_scribble-circle-2.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405db20867d9227c95fb902_scribble-line.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405db20867d9227c95fb902_scribble-line.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e086da4a6b095ad79c30_photo-1-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e086da4a6b095ad79c30_photo-1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e086da4a6b095ad79c30_photo-1-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e086da4a6b095ad79c30_photo-1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e086da4a6b095ad79c30_photo-1-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e086da4a6b095ad79c30_photo-1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e086da4a6b095ad79c30_photo-1.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e086da4a6b095ad79c30_photo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e488448cac3739fd3393_icons8-paint-240.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e488448cac3739fd3393_icons8-paint-240.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e4bf8921a5a228f31d42_icons8-web-240.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e4bf8921a5a228f31d42_icons8-web-240.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e4eed2fd138c976534a7_icons8-code-file-240.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e4eed2fd138c976534a7_icons8-code-file-240.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e53b182f4e3efa7743e6_icons8-commercial-240.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e53b182f4e3efa7743e6_icons8-commercial-240.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e98ce98faa8ae549fe62_label_FILL0_wght400_GRAD0_opsz48.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e98ce98faa8ae549fe62_label_FILL0_wght400_GRAD0_opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405e9be49bd67aa4d8559f9_event_FILL0_wght400_GRAD0_opsz48.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405e9be49bd67aa4d8559f9_event_FILL0_wght400_GRAD0_opsz48.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f0091e0dc52a3a9be5f9_team-1-p-500.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f0091e0dc52a3a9be5f9_team-1-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f0091e0dc52a3a9be5f9_team-1.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f0091e0dc52a3a9be5f9_team-1.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f00999876e7a99263c60_team-3-p-500.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f00999876e7a99263c60_team-3-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f00999876e7a99263c60_team-3.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f00999876e7a99263c60_team-3.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f095d3482762f279e49e_team-4-p-500.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f095d3482762f279e49e_team-4-p-500.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f095d3482762f279e49e_team-4.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f095d3482762f279e49e_team-4.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f1d2b3eb7d3da2fd18f6_file (26).svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f1d2b3eb7d3da2fd18f6_file (26).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f1d2b3eb7d7c1bfd18f7_file (28).svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f1d2b3eb7d7c1bfd18f7_file (28).svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f91e12829a3aee8b0897_cta-1.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f91e12829a3aee8b0897_cta-1.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405f9d220bf13f51989eb2c_cta-2.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405f9d220bf13f51989eb2c_cta-2.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/6405fad4da2becfdf2cfc61a_github.svg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\6405fad4da2becfdf2cfc61a_github.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac00a5b74cc979b761_blog-2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac00a5b74cc979b761_blog-2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac00a5b74cc979b761_blog-2-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac00a5b74cc979b761_blog-2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac00a5b74cc979b761_blog-2-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac00a5b74cc979b761_blog-2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac00a5b74cc979b761_blog-2.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac00a5b74cc979b761_blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac8c3bc4dd85a24c8c_blog-1-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac8c3bc4dd85a24c8c_blog-1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac8c3bc4dd85a24c8c_blog-1-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac8c3bc4dd85a24c8c_blog-1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac8c3bc4dd85a24c8c_blog-1-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac8c3bc4dd85a24c8c_blog-1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64060aac8c3bc4dd85a24c8c_blog-1.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64060aac8c3bc4dd85a24c8c_blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/640610258929213dcb07e6a4_photo-2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\640610258929213dcb07e6a4_photo-2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/640610258929213dcb07e6a4_photo-2-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\640610258929213dcb07e6a4_photo-2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/640610258929213dcb07e6a4_photo-2-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\640610258929213dcb07e6a4_photo-2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/640610258929213dcb07e6a4_photo-2.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\640610258929213dcb07e6a4_photo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/64061124c425db2ac6acd684_team-2.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\64061124c425db2ac6acd684_team-2.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/css/agencix-template.webflow.f03879f84.css
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\css\agencix-template.webflow.f03879f84.css
+Content Type: text/css
+
+Uri: https://assets.website-files.com/64009e3dae42133b486fe802/js/webflow.7a195b37a.js
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009e3dae42133b486fe802\js\webflow.7a195b37a.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405e89d2779e771f356f4ff_work-1.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405e89d2779e771f356f4ff_work-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ea8f6389f97c4f9eb415_work-2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ea8f6389f97c4f9eb415_work-2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ea8f6389f97c4f9eb415_work-2-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ea8f6389f97c4f9eb415_work-2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ea8f6389f97c4f9eb415_work-2-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ea8f6389f97c4f9eb415_work-2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ea8f6389f97c4f9eb415_work-2.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ea8f6389f97c4f9eb415_work-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec76f0cf3ccac9b7ad8d_work-4-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec76f0cf3ccac9b7ad8d_work-4-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec76f0cf3ccac9b7ad8d_work-4-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec76f0cf3ccac9b7ad8d_work-4-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec76f0cf3ccac9b7ad8d_work-4-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec76f0cf3ccac9b7ad8d_work-4-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec76f0cf3ccac9b7ad8d_work-4.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec76f0cf3ccac9b7ad8d_work-4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec819cc6e07cdd9dc0e5_work-3-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec819cc6e07cdd9dc0e5_work-3-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec819cc6e07cdd9dc0e5_work-3-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec819cc6e07cdd9dc0e5_work-3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec819cc6e07cdd9dc0e5_work-3-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec819cc6e07cdd9dc0e5_work-3-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405ec819cc6e07cdd9dc0e5_work-3.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405ec819cc6e07cdd9dc0e5_work-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f58e843d4ac020100491_blog-1-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f58e843d4ac020100491_blog-1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f58e843d4ac020100491_blog-1-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f58e843d4ac020100491_blog-1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f58e843d4ac020100491_blog-1-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f58e843d4ac020100491_blog-1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f58e843d4ac020100491_blog-1.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f58e843d4ac020100491_blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f5989cc6e013229e5c64_blog-2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f5989cc6e013229e5c64_blog-2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f5989cc6e013229e5c64_blog-2-p-500.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f5989cc6e013229e5c64_blog-2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f5989cc6e013229e5c64_blog-2-p-800.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f5989cc6e013229e5c64_blog-2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets.website-files.com/64009f12d2ba8762d2705897/6405f5989cc6e013229e5c64_blog-2.jpg
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\64009f12d2ba8762d2705897\6405f5989cc6e013229e5c64_blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/img/favicon.ico
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://assets.website-files.com/img/webclip.png
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64009e3dae42133b486fe802
+File Name: C:\Downloaded Web Sites\agencix-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
